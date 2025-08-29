@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1756492333 source:/home/camila/Documentos/livraria.projeto/library/main.cpp
+	<ncurses.h>
+	<vector>
+	<string>
+	"produto.h"
+	"tipolivro.h"
+	"livrodigital.h"
+
+1756492972 /home/camila/Documentos/livraria.projeto/library/include/produto.h
+	<string>
+	<iostream>
+
+1756492995 /home/camila/Documentos/livraria.projeto/library/include/tipolivro.h
+	"produto.h"
+
+1756492972 /home/camila/Documentos/livraria.projeto/library/include/livrodigital.h
+	"produto.h"
+
